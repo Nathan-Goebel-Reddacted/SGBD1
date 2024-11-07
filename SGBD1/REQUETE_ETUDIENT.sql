@@ -1,0 +1,2 @@
+SELECT NOM AS last_name,PRENOM AS first_name
+FROM ETUDIANT;
